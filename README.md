@@ -1,6 +1,6 @@
-# flutter_app
+# simple UI page using flutter.But it's looks amazing
 
-A new Flutter application.
+simple UI page using flutter.But it's looks amazing
 
 ## Getting Started
 
